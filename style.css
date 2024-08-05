@@ -67,7 +67,7 @@ button:hover {
   margin-top: 20px;
   font-weight: 700;
   text-shadow: 0 0 10px greenyellow;
-  opacity: .1;
+  opacity: .2;
 }
 @media screen and (max-width: 630px) {
   .dado {
